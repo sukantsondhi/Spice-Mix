@@ -1,1 +1,3 @@
 # Spice-Mix
+
+Spice Mix is quick and user-friendly game. It treats the user as an apprentice chef in the Kitchen and asks the user to Figure out a famous chef’s recipe for a mix. Therefore, the game asks the user to input 5 different Spices which the user choses out of 7 different spices, therefore Nutmeg, Oregano, Pepper, Quassia, Rosemary, Salt & Thyme. 5 of these Spices are used to make the correct mix, and it is up to the user to Figure out the correct mix. The game will provide the user with the information like Previous Attempts, invalid inputs etc. To make the game a bit more fun there is no Fixed answer to the game, every time a random mix of 5 spices is generated, which is the user’s responsibility to figure out.
